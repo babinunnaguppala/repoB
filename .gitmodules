@@ -1,0 +1,3 @@
+[submodule "submodules/repoA"]
+	path = submodules/repoA
+	url = https://github.com/babinunnaguppala/repoA
